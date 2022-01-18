@@ -20,9 +20,10 @@ public class portfolio {
     }
     public static void WorkingRemote(){
         System.out.println("this month is remote working day");
-
         String hello ="hello";
         System.out.println(hello);
+        String world ="world";
+        System.out.println(world);
     }
 
 }
